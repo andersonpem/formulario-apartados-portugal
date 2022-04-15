@@ -20,7 +20,7 @@ Boa sorte.
   
 - Você também pode clicar no arquivo do formulário em si, na lista de arquivos acima e clicar em download para baixar para você.
   
-- Pegue o arquivo PDF de lá, preencha, salve, imprima e vá ao CTT feliz da vida.
+- Pegue o arquivo PDF de lá, preencha, salve, imprima, assine, e vá ao CTT feliz da vida.
   
 
 ## Propriedade intelectual

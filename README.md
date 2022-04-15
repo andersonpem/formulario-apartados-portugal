@@ -13,3 +13,18 @@ Você pode solicitar um apartado, renovar, autorizar pessoas, etc.
 Pode usar tab para navegar entre os campos.
 
 Boa sorte.
+
+## Como baixar o formulário?
+
+- Se você caiu aqui de paraquedas e não é programador, clique no botão código, e clique em baixar zip (ou code>download zip) para baixar uma versão deste repositório.
+  
+- Você também pode clicar no arquivo do formulário em si, na lista de arquivos acima e clicar em download para baixar para você.
+  
+- Pegue o arquivo PDF de lá, preencha, salve, imprima e vá ao CTT feliz da vida.
+  
+
+## Propriedade intelectual
+
+Este formulário pertence ao CTT © CTT todos os direitos reservados. Em nenhum momento clamo propriedade intelectual deste arquivo.
+
+A única coisa que fiz foi tornar a vida de quem o usa mais fácil.
